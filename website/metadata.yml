@@ -1,12 +1,12 @@
 layout: post
 current: post
-cover:
+cover: cover.jpeg
 navigation: True
-title: "An interesting post"
-date: 2021-06-15
-tags: []
+title: "How a child allowance would lift moms out of poverty"
+date: 2022-05-07
+tags: [child allowance]
 subclass: "post"
-author: nikhil
-excerpt: "Some interesting excerpt."
+author: max
+excerpt: "A $200 per month child allowance would lift a million mothers out of poverty."
 class: post-template
 useplotly: true
